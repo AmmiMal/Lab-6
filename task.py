@@ -24,8 +24,6 @@ class Book:
                         )
 
 
-
-
 class Encyclopedia(Book):
     className = 'Encyclopedia'
 
